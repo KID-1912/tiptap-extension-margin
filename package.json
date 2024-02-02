@@ -1,0 +1,25 @@
+{
+  "name": "tiptap-extension-margin",
+  "version": "1.0.0",
+  "description": "An extension that add margin to tiptap paragraph or more nodes.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tiptap",
+    "extension",
+    "paragraph",
+    "margin"
+  ],
+  "author": "kid-1912",
+  "homepage": "https://github.com/KID-1912/tiptap-extension-margin",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KID-1912/tiptap-extension-margin.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "@tiptap/core": "^2.2.1"
+  }
+}
